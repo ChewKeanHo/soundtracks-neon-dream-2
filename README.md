@@ -1,21 +1,29 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Neon Dream 2 | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+All right. We need more sample for uplifting passionate eletronic synth genre
+as a background track. Here it is, the second version.
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #synth #passionate #instrumental
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/Neon-Dreams-2.mp3
+  Size: 8556544         Blocks: 16712      IO Block: 4096   regular file
+Access: 2025-10-31 16:42:31.973690135 +0800
+Modify: 2025-10-31 16:41:33.761465273 +0800
+Change: 2025-10-31 16:41:33.761465273 +0800
+ Birth: 2025-07-20 11:53:33.010219693 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-05-24
+On YouTube since : 2025-05-24
 ```
 
-[YouTube](#) |
+[YouTube](https://www.youtube.com/watch?v=f6_496nW2xc) |
 [Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf) |
-[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
+[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf) |
+[Agreed Vizzy Terms of Service](.internals/terms-of-services/Vizzy-Terms-of-Service.pdf) |
+[Agreed Vizzy Privacy Policy](.internals/privacy-policy/Vizzy-Privacy-Policy.pdf)
 
 
 
@@ -36,9 +44,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Neon Dream 2
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-neon-dream-2
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
